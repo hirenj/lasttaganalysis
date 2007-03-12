@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weeklyartistchart user="Hirenj_au" from="1151236800" to="1151841600">
+<artist>
+    <name>Gomez</name>
+    <mbid></mbid>
+    <chartposition>1</chartposition>
+    <playcount>21</playcount>
+    <url>http://www.last.fm/music/Gomez</url>
+</artist>
+<artist>
+    <name>DJ Green Lantern</name>
+    <mbid>08550d23-80b6-40c1-9fb4-da64433bf214</mbid>
+    <chartposition>1</chartposition>
+    <playcount>21</playcount>
+    <url>http://www.last.fm/music/DJ+Green+Lantern</url>
+</artist>
+<artist>
+    <name>Hilltop Hoods</name>
+    <mbid></mbid>
+    <chartposition>3</chartposition>
+    <playcount>6</playcount>
+    <url>http://www.last.fm/music/Hilltop+Hoods</url>
+</artist>
+<artist>
+    <name>Triple J</name>
+    <mbid></mbid>
+    <chartposition>4</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Triple+J</url>
+</artist>
+<artist>
+    <name>Solid Steel</name>
+    <mbid></mbid>
+    <chartposition>5</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Solid+Steel</url>
+</artist>
+</weeklyartistchart>

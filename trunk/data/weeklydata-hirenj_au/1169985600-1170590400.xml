@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weeklyartistchart user="Hirenj_au" from="1169985600" to="1170590400">
+<artist>
+    <name>Elliott Smith</name>
+    <mbid>03ad1736-b7c9-412a-b442-82536d63a5c4</mbid>
+    <chartposition>1</chartposition>
+    <playcount>52</playcount>
+        <url>http://www.last.fm/music/Elliott+Smith</url>
+</artist>
+<artist>
+    <name>Radiohead</name>
+    <mbid>a74b1b7f-71a5-4011-9441-d0b5e4122711</mbid>
+    <chartposition>2</chartposition>
+    <playcount>51</playcount>
+        <url>http://www.last.fm/music/Radiohead</url>
+</artist>
+<artist>
+    <name>The Herbaliser</name>
+    <mbid></mbid>
+    <chartposition>3</chartposition>
+    <playcount>42</playcount>
+        <url>http://www.last.fm/music/The+Herbaliser</url>
+</artist>
+<artist>
+    <name>OK Go</name>
+    <mbid>e132d370-2a59-4437-8610-756df28a5a02</mbid>
+    <chartposition>4</chartposition>
+    <playcount>35</playcount>
+        <url>http://www.last.fm/music/OK+Go</url>
+</artist>
+<artist>
+    <name>Juliette &amp; The Licks</name>
+    <mbid></mbid>
+    <chartposition>4</chartposition>
+    <playcount>35</playcount>
+        <url>http://www.last.fm/music/Juliette%2B%2526%2BThe%2BLicks</url>
+</artist>
+<artist>
+    <name>Gomez</name>
+    <mbid></mbid>
+    <chartposition>6</chartposition>
+    <playcount>30</playcount>
+        <url>http://www.last.fm/music/Gomez</url>
+</artist>
+<artist>
+    <name>DJ Krush</name>
+    <mbid></mbid>
+    <chartposition>7</chartposition>
+    <playcount>24</playcount>
+        <url>http://www.last.fm/music/DJ+Krush</url>
+</artist>
+<artist>
+    <name>GreensKeepers</name>
+    <mbid>a9d0e342-29ae-4fb6-99f3-2847caed82b2</mbid>
+    <chartposition>8</chartposition>
+    <playcount>23</playcount>
+        <url>http://www.last.fm/music/GreensKeepers</url>
+</artist>
+<artist>
+    <name>Phoenix</name>
+    <mbid></mbid>
+    <chartposition>9</chartposition>
+    <playcount>22</playcount>
+        <url>http://www.last.fm/music/Phoenix</url>
+</artist>
+<artist>
+    <name>DJ Shadow</name>
+    <mbid>efa2c11a-1a35-4b60-bc1b-66d37de88511</mbid>
+    <chartposition>10</chartposition>
+    <playcount>20</playcount>
+        <url>http://www.last.fm/music/DJ+Shadow</url>
+</artist>
+<artist>
+    <name>Louis XIV</name>
+    <mbid>b0c29120-f45b-43f2-bf3f-9865aaa07acb</mbid>
+    <chartposition>11</chartposition>
+    <playcount>19</playcount>
+        <url>http://www.last.fm/music/Louis+XIV</url>
+</artist>
+<artist>
+    <name>People Under the Stairs</name>
+    <mbid>3dc00dcb-6106-43d1-b48d-21d236f53983</mbid>
+    <chartposition>12</chartposition>
+    <playcount>17</playcount>
+        <url>http://www.last.fm/music/People+Under+the+Stairs</url>
+</artist>
+<artist>
+    <name>Handsome Boy Modeling School</name>
+    <mbid>c3f99319-52c7-47f2-9631-10bc7cc8c589</mbid>
+    <chartposition>13</chartposition>
+    <playcount>16</playcount>
+        <url>http://www.last.fm/music/Handsome+Boy+Modeling+School</url>
+</artist>
+<artist>
+    <name>Dangerdoom</name>
+    <mbid></mbid>
+    <chartposition>14</chartposition>
+    <playcount>15</playcount>
+        <url>http://www.last.fm/music/Dangerdoom</url>
+</artist>
+<artist>
+    <name>The Cinematic Orchestra</name>
+    <mbid>7c158ea8-c0aa-410e-bdc1-20bba9759577</mbid>
+    <chartposition>15</chartposition>
+    <playcount>14</playcount>
+        <url>http://www.last.fm/music/The+Cinematic+Orchestra</url>
+</artist>
+<artist>
+    <name>Modest Mouse</name>
+    <mbid>a96ac800-bfcb-412a-8a63-0a98df600700</mbid>
+    <chartposition>15</chartposition>
+    <playcount>14</playcount>
+        <url>http://www.last.fm/music/Modest+Mouse</url>
+</artist>
+<artist>
+    <name>Róisín Murphy</name>
+    <mbid>4c56405d-ba8e-4283-99c3-1dc95bdd50e7</mbid>
+    <chartposition>17</chartposition>
+    <playcount>12</playcount>
+        <url>http://www.last.fm/music/R%C3%B3is%C3%ADn+Murphy</url>
+</artist>
+<artist>
+    <name>Reef</name>
+    <mbid>5ac9e5c2-bf08-4c37-bcc3-8f9d28246d7a</mbid>
+    <chartposition>18</chartposition>
+    <playcount>11</playcount>
+        <url>http://www.last.fm/music/Reef</url>
+</artist>
+<artist>
+    <name>The Shins</name>
+    <mbid>6c8b9855-ba8b-48f9-ac1d-42167f7f7b18</mbid>
+    <chartposition>18</chartposition>
+    <playcount>11</playcount>
+        <url>http://www.last.fm/music/The+Shins</url>
+</artist>
+<artist>
+    <name>The Doors</name>
+    <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+    <chartposition>18</chartposition>
+    <playcount>11</playcount>
+        <url>http://www.last.fm/music/The+Doors</url>
+</artist>
+<artist>
+    <name>Kid Koala</name>
+    <mbid>6080c60a-6e87-44a6-a1e1-e5ff3a613818</mbid>
+    <chartposition>21</chartposition>
+    <playcount>10</playcount>
+        <url>http://www.last.fm/music/Kid+Koala</url>
+</artist>
+<artist>
+    <name>Pnau</name>
+    <mbid></mbid>
+    <chartposition>22</chartposition>
+    <playcount>9</playcount>
+        <url>http://www.last.fm/music/Pnau</url>
+</artist>
+<artist>
+    <name>Joanna Newsom</name>
+    <mbid>cb69e1f1-bc76-4df5-93c9-cf97dd8a3b5c</mbid>
+    <chartposition>22</chartposition>
+    <playcount>9</playcount>
+        <url>http://www.last.fm/music/Joanna+Newsom</url>
+</artist>
+<artist>
+    <name>Editors</name>
+    <mbid>0efe858c-89e5-4e47-906a-356fa953fd6e</mbid>
+    <chartposition>24</chartposition>
+    <playcount>7</playcount>
+        <url>http://www.last.fm/music/Editors</url>
+</artist>
+<artist>
+    <name>Thom Yorke</name>
+    <mbid>8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b</mbid>
+    <chartposition>24</chartposition>
+    <playcount>7</playcount>
+        <url>http://www.last.fm/music/Thom+Yorke</url>
+</artist>
+<artist>
+    <name>Frou Frou</name>
+    <mbid></mbid>
+    <chartposition>26</chartposition>
+    <playcount>6</playcount>
+        <url>http://www.last.fm/music/Frou+Frou</url>
+</artist>
+<artist>
+    <name>The Fratellis</name>
+    <mbid></mbid>
+    <chartposition>26</chartposition>
+    <playcount>6</playcount>
+        <url>http://www.last.fm/music/The+Fratellis</url>
+</artist>
+<artist>
+    <name>Beck</name>
+    <mbid>309c62ba-7a22-4277-9f67-4a162526d18a</mbid>
+    <chartposition>28</chartposition>
+    <playcount>5</playcount>
+        <url>http://www.last.fm/music/Beck</url>
+</artist>
+<artist>
+    <name>Triple J</name>
+    <mbid>4d424845-000e-4f62-a7c0-1abc6fc01b89</mbid>
+    <chartposition>29</chartposition>
+    <playcount>4</playcount>
+        <url>http://www.last.fm/music/Triple+J</url>
+</artist>
+<artist>
+    <name>Lyrics Born</name>
+    <mbid>3fafb3eb-bd69-4463-b6aa-bf88472b6089</mbid>
+    <chartposition>30</chartposition>
+    <playcount>3</playcount>
+        <url>http://www.last.fm/music/Lyrics+Born</url>
+</artist>
+<artist>
+    <name>LaSalle</name>
+    <mbid></mbid>
+    <chartposition>30</chartposition>
+    <playcount>3</playcount>
+        <url>http://www.last.fm/music/LaSalle</url>
+</artist>
+<artist>
+    <name>Wolf Parade</name>
+    <mbid>b7ddce8b-9e5c-46bd-9d33-41b134ce1a7f</mbid>
+    <chartposition>30</chartposition>
+    <playcount>3</playcount>
+        <url>http://www.last.fm/music/Wolf+Parade</url>
+</artist>
+<artist>
+    <name>ILS</name>
+    <mbid></mbid>
+    <chartposition>30</chartposition>
+    <playcount>3</playcount>
+        <url>http://www.last.fm/music/ILS</url>
+</artist>
+<artist>
+    <name>The Kooks</name>
+    <mbid>f82f3a3e-29c2-42ca-b589-bc5dc210fa9e</mbid>
+    <chartposition>30</chartposition>
+    <playcount>3</playcount>
+        <url>http://www.last.fm/music/The+Kooks</url>
+</artist>
+<artist>
+    <name>Moloko</name>
+    <mbid>2f94016a-3880-4d8c-9af9-0e197ee77189</mbid>
+    <chartposition>30</chartposition>
+    <playcount>3</playcount>
+        <url>http://www.last.fm/music/Moloko</url>
+</artist>
+<artist>
+    <name>William Shatner</name>
+    <mbid>a406a684-7c88-442b-836d-3b9b67bbc91d</mbid>
+    <chartposition>36</chartposition>
+    <playcount>2</playcount>
+        <url>http://www.last.fm/music/William+Shatner</url>
+</artist>
+<artist>
+    <name>Amos Lee</name>
+    <mbid>332228ce-fe8c-4a5e-90e0-e1361553e5ff</mbid>
+    <chartposition>36</chartposition>
+    <playcount>2</playcount>
+        <url>http://www.last.fm/music/Amos+Lee</url>
+</artist>
+<artist>
+    <name>Rae &amp; Christian</name>
+    <mbid></mbid>
+    <chartposition>36</chartposition>
+    <playcount>2</playcount>
+        <url>http://www.last.fm/music/Rae%2B%2526%2BChristian</url>
+</artist>
+<artist>
+    <name>10 Sui</name>
+    <mbid>61c4f40d-88cb-4d04-b7c4-1feb3930a35c</mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/10+Sui</url>
+</artist>
+<artist>
+    <name>Pixie</name>
+    <mbid>34fdb091-c873-4390-8f7d-e3f8a1c3ac80</mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Pixie</url>
+</artist>
+<artist>
+    <name>Evil Nine</name>
+    <mbid>250b7089-69e4-43b2-bae3-a83d9f6d71bb</mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Evil+Nine</url>
+</artist>
+<artist>
+    <name>Layo &amp; Bushwacka!</name>
+    <mbid></mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Layo%2B%2526%2BBushwacka%2521</url>
+</artist>
+<artist>
+    <name>Dynamite MC</name>
+    <mbid></mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Dynamite+MC</url>
+</artist>
+<artist>
+    <name>Ramsey Lewis</name>
+    <mbid></mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Ramsey+Lewis</url>
+</artist>
+<artist>
+    <name>Roni Size</name>
+    <mbid></mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Roni+Size</url>
+</artist>
+<artist>
+    <name>Easy Star All-Stars</name>
+    <mbid>0cee95e3-a61d-4cd1-a39c-75464a05b606</mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Easy+Star+All-Stars</url>
+</artist>
+<artist>
+    <name>Tsunami One &amp; BT</name>
+    <mbid></mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Tsunami%2BOne%2B%2526%2BBT</url>
+</artist>
+<artist>
+    <name>Count Basic K&amp;D Session</name>
+    <mbid></mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Count%2BBasic%2BK%2526D%2BSession</url>
+</artist>
+<artist>
+    <name>Chris Coco</name>
+    <mbid></mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Chris+Coco</url>
+</artist>
+<artist>
+    <name>Stateside</name>
+    <mbid>4fe0feab-831c-4a85-b7b8-521c9a4571fd</mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Stateside</url>
+</artist>
+<artist>
+    <name>Ed209</name>
+    <mbid>b32ee533-d9a6-4187-9533-9b82985f4005</mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Ed209</url>
+</artist>
+<artist>
+    <name>Forme</name>
+    <mbid></mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Forme</url>
+</artist>
+<artist>
+    <name>Solid Steel</name>
+    <mbid></mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Solid+Steel</url>
+</artist>
+<artist>
+    <name>Rkidz &amp; Noize</name>
+    <mbid></mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Rkidz%2B%2526%2BNoize</url>
+</artist>
+<artist>
+    <name>Blowfelt</name>
+    <mbid>67657b4b-ed61-4af6-93c4-e8d58b7e7722</mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Blowfelt</url>
+</artist>
+<artist>
+    <name>Love Unlimited Orchestra</name>
+    <mbid>8c92cef7-52ae-49cd-bf5d-97078a977d58</mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Love+Unlimited+Orchestra</url>
+</artist>
+<artist>
+    <name>Initial Research</name>
+    <mbid>63b81501-a21c-428c-8ff0-c27e092fcb78</mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/Initial+Research</url>
+</artist>
+<artist>
+    <name>FC/Kahuna</name>
+    <mbid></mbid>
+    <chartposition>39</chartposition>
+    <playcount>1</playcount>
+        <url>http://www.last.fm/music/FC%252FKahuna</url>
+</artist>
+</weeklyartistchart>

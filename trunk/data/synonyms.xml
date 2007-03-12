@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<synonymDefinitions version="$Rev: 239 $">
+
+<synonym name="rock">
+	<synonym>rock and roll</synonym>
+</synonym>
+<synonym name="indie">
+	<synonym>alternative</synonym>
+	<synonym>independent</synonym>
+	<synonym>alt</synonym>
+</synonym>
+<synonym name="indie rock">
+<!--
+	<synonym>
+		<synonym>alternative</synonym>
+		<synonym>rock</synonym>
+	</synonym>
+	<synonym>
+		<synonym>indie</synonym>
+		<synonym>rock</synonym>
+	</synonym>
+-->
+	<synonym>alternative rock</synonym>
+	<synonym>alt-rock</synonym>
+	<synonym>alt rock</synonym>
+</synonym>
+<synonym name="experimental rock">
+	<synonym>
+		<synonym>experimental</synonym>
+		<synonym>rock</synonym>
+	</synonym>
+	<synonym>experimental-rock</synonym>
+</synonym>
+<synonym name="garage rock">
+	<synonym>
+		<synonym>garage</synonym>
+		<synonym>rock</synonym>
+	</synonym>
+	<synonym>garage-rock</synonym>
+</synonym>
+<synonym name="progressive rock">
+	<synonym>
+		<synonym>progressive</synonym>
+		<synonym>rock</synonym>
+	</synonym>
+	<synonym>progressive-rock</synonym>
+	<synonym>prog-rock</synonym>
+	<synonym>prog rock</synonym>
+</synonym>
+<synonym name="progressive">
+	<synonym>prog</synonym>
+</synonym>
+<synonym name="post punk">
+	<synonym>post-punk</synonym>
+</synonym>
+<synonym name="blues rock">
+	<synonym>blues-rock</synonym>
+</synonym>
+<synonym name="glam rock">
+	<synonym>glam</synonym>
+</synonym>
+<synonym name="synth pop">
+	<synonym>synthpop</synonym>
+</synonym>
+<synonym name="australian">
+	<synonym>aussie</synonym>
+	<synonym>australia</synonym>
+	<synonym>australian music</synonym>
+	<synonym>Aussie Shiznat</synonym>
+	<synonym>australian artists</synonym>
+	<synonym>aus</synonym>
+	<synonym>oz</synonym>
+</synonym>
+<synonym name="australian rock">
+	<synonym>aussie rock</synonym>
+	<synonym>aussierock</synonym>
+	<synonym>aus rock</synonym>
+</synonym>
+<synonym name="australian hip-hop">
+	<synonym>aussie hip hop</synonym>
+	<synonym>aussie hip-hop</synonym>
+	<synonym>australian hip hop</synonym>
+</synonym>
+<synonym name="british">
+	<synonym>english</synonym>
+	<synonym>oxford</synonym>
+	<synonym>brit</synonym>
+	<synonym>uk</synonym>
+</synonym>
+<synonym name="french">
+	<synonym>francais</synonym>
+	<synonym>france</synonym>
+</synonym>
+<synonym name="french hip-hop">
+	<synonym>french hip hop</synonym>
+</synonym>
+<synonym name="belgian">
+	<synonym>belgium</synonym>
+</synonym>
+<synonym name="british rock">
+	<synonym>
+		<synonym>british</synonym>
+		<synonym>rock</synonym>
+	</synonym>
+	<synonym>brit rock</synonym>
+	<synonym>britrock</synonym>
+</synonym>
+
+<synonym name="british pop">
+	<synonym>
+		<synonym>british</synonym>
+		<synonym>pop</synonym>
+	</synonym>
+	<synonym>britpop</synonym>
+	<synonym>brit pop</synonym>
+</synonym>
+<synonym name="british hip-hop">
+	<synonym>uk hip hop</synonym>
+</synonym>
+<synonym name="breakbeat">
+	<synonym>breaks</synonym>
+	<synonym>breakbeats</synonym>
+</synonym>
+<synonym name="alternate country">
+	<synonym>
+		<synonym>alternate</synonym>
+		<synonym>country</synonym>
+	</synonym>
+	<synonym>alt-country</synonym>
+	<synonym>alt country</synonym>
+</synonym>
+<synonym name="hip-hop">
+	<synonym>hip hop</synonym>
+	<synonym>hiphop</synonym>
+</synonym>
+<synonym name="r-n-b">
+	<synonym>r and b</synonym>
+	<synonym>rnb</synonym>
+	<synonym>rhythm and blues</synonym>
+</synonym>
+<synonym name="folk rock">
+	<synonym>folk-rock</synonym>
+</synonym>
+<synonym name="underground hip-hop">
+	<synonym>underground hip hop</synonym>
+	<synonym>underground hiphop</synonym>
+	<synonym>underground rap</synonym>
+	<synonym>independent hip-hop</synonym>
+	<synonym>independent hip hop</synonym>
+	<synonym>independent hiphop</synonym>
+	<synonym>indie hip-hop</synonym>
+	<synonym>indie hip hop</synonym>
+	<synonym>indie rap</synonym>
+	<synonym>
+		<synonym>indie</synonym>
+		<synonym>hip-hop</synonym>
+	</synonym>
+	<synonym>
+		<synonym>indie</synonym>
+		<synonym>rap</synonym>
+	</synonym>
+</synonym>
+<synonym name="electronic">
+	<synonym>electronica</synonym>
+</synonym>
+<synonym name="japan">
+	<synonym>japanese</synonym>
+</synonym>
+<synonym name="j-pop">
+	<synonym>j pop</synonym>
+	<synonym>japanese pop</synonym>
+	<synonym>jpop</synonym>
+	<synonym>
+		<synonym>japan</synonym>
+		<synonym>pop</synonym>
+	</synonym>
+</synonym>
+<synonym name="post rock">
+	<synonym>post-rock</synonym>
+</synonym>
+<synonym name="trip-hop">
+	<synonym>trip hop</synonym>
+	<synonym>triphop</synonym>
+</synonym>
+<synonym name="gothic">
+	<synonym>goth</synonym>
+</synonym>
+<synonym name="downtempo">
+	<synonym>chill</synonym>
+	<synonym>chill-out</synonym>
+	<synonym>chillout</synonym>
+	<synonym>chillosophy</synonym>
+</synonym>
+<synonym name="new zealand">
+	<synonym>kiwi</synonym>
+</synonym>
+<synonym name="nu-jazz">
+	<synonym>nu jazz</synonym>
+</synonym>
+<synonym name="drum-n-bass">
+	<synonym>drum n bass</synonym>
+	<synonym>drum and bass</synonym>
+</synonym>
+<synonym name="mashup">
+	<synonym>mash-up</synonym>
+	<synonym>mash-ups</synonym>
+	<synonym>mashups</synonym>
+	<synonym>mash ups</synonym>
+	<synonym>mash up</synonym>
+	<synonym>mashup artists</synonym>
+	<synonym>mish-mashed</synonym>
+</synonym>
+<synonym name="radio show">
+	<synonym>radio station</synonym>
+</synonym>
+<synonym name="soundtrack">
+	<synonym>ost</synonym>
+</synonym>
+<synonym name="todelete">
+	<!-- Temporal tags -->	
+	<synonym>seen live</synonym>
+	<synonym>going to see live</synonym>
+
+	<synonym>misc</synonym>
+
+	<!-- Rating tags -->
+	<synonym>favorites</synonym>
+	<synonym>favourites</synonym>
+	<synonym>favourite</synonym>
+	<synonym>favorite</synonym>
+	<synonym>favourite bands</synonym>
+	<synonym>favorite bands</synonym>
+	<synonym>favorite artists</synonym>
+	<synonym>favourite artists</synonym>
+
+	<!-- Subjective tags -->
+	<synonym>love</synonym>
+	<synonym>good</synonym>
+	<synonym>love</synonym>
+	<synonym>cool</synonym>
+	<synonym>amazing</synonym>
+	<synonym>overrated</synonym>
+
+	<!-- Artists -->
+	<synonym>beck</synonym>
+	<synonym>bjork</synonym>
+	<synonym>bob dylan</synonym>
+	<synonym>coldplay</synonym>
+	<synonym>de la soul</synonym>
+	<synonym>death cab</synonym>
+	<synonym>death cab for cutie</synonym>
+	<synonym>elliot smith</synonym>
+	<synonym>elliott smith</synonym>
+	<synonym>foo fighters</synonym>
+	<synonym>franz ferdinand</synonym>
+	<synonym>frou frou</synonym>
+	<synonym>goldfrapp</synonym>
+	<synonym>gorillaz</synonym>
+	<synonym>imogen heap</synonym>
+	<synonym>jack johnson</synonym>
+	<synonym>jack white</synonym>
+	<synonym>jeff buckley</synonym>
+	<synonym>jimi hendrix</synonym>
+	<synonym>johnny cash</synonym>
+	<synonym>madonna</synonym>
+	<synonym>mf doom</synonym>
+	<synonym>orbital</synonym>
+	<synonym>queens of the stone age</synonym>
+	<synonym>radiohead</synonym>
+	<synonym>ryan adams</synonym>
+	<synonym>the smiths</synonym>
+	<synonym>sufjan stevens</synonym>
+	<synonym>white stripes</synonym>
+	<synonym>the white stripes</synonym>
+</synonym>
+
+</synonymDefinitions>
