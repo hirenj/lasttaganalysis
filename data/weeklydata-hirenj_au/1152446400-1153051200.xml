@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weeklyartistchart user="Hirenj_au" from="1152446400" to="1153051200">
+<artist>
+    <name>The Raconteurs</name>
+    <mbid></mbid>
+    <chartposition>1</chartposition>
+    <playcount>20</playcount>
+    <url>http://www.last.fm/music/The+Raconteurs</url>
+</artist>
+<artist>
+    <name>Elliott Smith</name>
+    <mbid></mbid>
+    <chartposition>2</chartposition>
+    <playcount>16</playcount>
+    <url>http://www.last.fm/music/Elliott+Smith</url>
+</artist>
+<artist>
+    <name>Lauryn Hill</name>
+    <mbid></mbid>
+    <chartposition>3</chartposition>
+    <playcount>14</playcount>
+    <url>http://www.last.fm/music/Lauryn+Hill</url>
+</artist>
+<artist>
+    <name>Hilltop Hoods</name>
+    <mbid></mbid>
+    <chartposition>4</chartposition>
+    <playcount>4</playcount>
+    <url>http://www.last.fm/music/Hilltop+Hoods</url>
+</artist>
+<artist>
+    <name>Party Ben</name>
+    <mbid>bb4789be-e26b-43c4-b098-d65b06538bd3</mbid>
+    <chartposition>5</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Party+Ben</url>
+</artist>
+<artist>
+    <name>Solid Steel</name>
+    <mbid></mbid>
+    <chartposition>6</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Solid+Steel</url>
+</artist>
+<artist>
+    <name>Torero</name>
+    <mbid></mbid>
+    <chartposition>6</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Torero</url>
+</artist>
+</weeklyartistchart>

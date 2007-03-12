@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weeklyartistchart user="Hirenj_au" from="1120392002" to="1120996802">
+<artist>
+    <name>The Smiths</name>
+    <mbid></mbid>
+    <chartposition>1</chartposition>
+    <playcount>31</playcount>
+    <url>http://www.last.fm/music/The+Smiths</url>
+</artist>
+<artist>
+    <name>Jack Johnson</name>
+    <mbid></mbid>
+    <chartposition>2</chartposition>
+    <playcount>28</playcount>
+    <url>http://www.last.fm/music/Jack+Johnson</url>
+</artist>
+<artist>
+    <name>Rae &amp; Christian</name>
+    <mbid></mbid>
+    <chartposition>3</chartposition>
+    <playcount>22</playcount>
+    <url>http://www.last.fm/music/Rae%2B%2526%2BChristian</url>
+</artist>
+<artist>
+    <name>Gomez</name>
+    <mbid></mbid>
+    <chartposition>4</chartposition>
+    <playcount>18</playcount>
+    <url>http://www.last.fm/music/Gomez</url>
+</artist>
+<artist>
+    <name>The Herbaliser</name>
+    <mbid></mbid>
+    <chartposition>5</chartposition>
+    <playcount>11</playcount>
+    <url>http://www.last.fm/music/The+Herbaliser</url>
+</artist>
+<artist>
+    <name>Radiohead</name>
+    <mbid></mbid>
+    <chartposition>6</chartposition>
+    <playcount>4</playcount>
+    <url>http://www.last.fm/music/Radiohead</url>
+</artist>
+<artist>
+    <name>The Cinematic Orchestra</name>
+    <mbid></mbid>
+    <chartposition>7</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/The+Cinematic+Orchestra</url>
+</artist>
+<artist>
+    <name>Moloko</name>
+    <mbid></mbid>
+    <chartposition>8</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Moloko</url>
+</artist>
+<artist>
+    <name>Skalpel</name>
+    <mbid></mbid>
+    <chartposition>8</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Skalpel</url>
+</artist>
+</weeklyartistchart>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weeklyartistchart user="Hirenj_au" from="1150027200" to="1150632000">
+<artist>
+    <name>Gomez</name>
+    <mbid></mbid>
+    <chartposition>1</chartposition>
+    <playcount>60</playcount>
+    <url>http://www.last.fm/music/Gomez</url>
+</artist>
+<artist>
+    <name>The Kooks</name>
+    <mbid></mbid>
+    <chartposition>2</chartposition>
+    <playcount>14</playcount>
+    <url>http://www.last.fm/music/The+Kooks</url>
+</artist>
+<artist>
+    <name>Gnarls barkley</name>
+    <mbid></mbid>
+    <chartposition>3</chartposition>
+    <playcount>5</playcount>
+    <url>http://www.last.fm/music/Gnarls+barkley</url>
+</artist>
+<artist>
+    <name>Phoenix</name>
+    <mbid></mbid>
+    <chartposition>4</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Phoenix</url>
+</artist>
+<artist>
+    <name>The Avalanches</name>
+    <mbid></mbid>
+    <chartposition>4</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/The+Avalanches</url>
+</artist>
+<artist>
+    <name>Triple J</name>
+    <mbid></mbid>
+    <chartposition>4</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Triple+J</url>
+</artist>
+<artist>
+    <name>AdultSwim.com</name>
+    <mbid></mbid>
+    <chartposition>4</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/AdultSwim.com</url>
+</artist>
+</weeklyartistchart>

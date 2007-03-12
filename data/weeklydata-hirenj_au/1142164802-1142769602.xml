@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weeklyartistchart user="Hirenj_au" from="1142164802" to="1142769602">
+<artist>
+    <name>The Black Keys</name>
+    <mbid></mbid>
+    <chartposition>1</chartposition>
+    <playcount>47</playcount>
+    <url>http://www.last.fm/music/The+Black+Keys</url>
+</artist>
+<artist>
+    <name>The Kooks</name>
+    <mbid></mbid>
+    <chartposition>2</chartposition>
+    <playcount>32</playcount>
+    <url>http://www.last.fm/music/The+Kooks</url>
+</artist>
+<artist>
+    <name>Sufjan Stevens</name>
+    <mbid></mbid>
+    <chartposition>3</chartposition>
+    <playcount>29</playcount>
+    <url>http://www.last.fm/music/Sufjan+Stevens</url>
+</artist>
+<artist>
+    <name>The White Stripes</name>
+    <mbid></mbid>
+    <chartposition>4</chartposition>
+    <playcount>24</playcount>
+    <url>http://www.last.fm/music/The+White+Stripes</url>
+</artist>
+<artist>
+    <name>Johnny Cash</name>
+    <mbid></mbid>
+    <chartposition>5</chartposition>
+    <playcount>22</playcount>
+    <url>http://www.last.fm/music/Johnny+Cash</url>
+</artist>
+<artist>
+    <name>The Avalanches</name>
+    <mbid></mbid>
+    <chartposition>6</chartposition>
+    <playcount>20</playcount>
+    <url>http://www.last.fm/music/The+Avalanches</url>
+</artist>
+<artist>
+    <name>Phoenix</name>
+    <mbid></mbid>
+    <chartposition>7</chartposition>
+    <playcount>19</playcount>
+    <url>http://www.last.fm/music/Phoenix</url>
+</artist>
+<artist>
+    <name>Beastie Boys</name>
+    <mbid></mbid>
+    <chartposition>8</chartposition>
+    <playcount>16</playcount>
+    <url>http://www.last.fm/music/Beastie+Boys</url>
+</artist>
+<artist>
+    <name>People Under the Stairs</name>
+    <mbid></mbid>
+    <chartposition>8</chartposition>
+    <playcount>16</playcount>
+    <url>http://www.last.fm/music/People+Under+the+Stairs</url>
+</artist>
+<artist>
+    <name>M.I.A.</name>
+    <mbid></mbid>
+    <chartposition>8</chartposition>
+    <playcount>16</playcount>
+    <url>http://www.last.fm/music/M.I.A.</url>
+</artist>
+<artist>
+    <name>Amos Lee</name>
+    <mbid></mbid>
+    <chartposition>8</chartposition>
+    <playcount>16</playcount>
+    <url>http://www.last.fm/music/Amos+Lee</url>
+</artist>
+<artist>
+    <name>DJ Vadim</name>
+    <mbid></mbid>
+    <chartposition>12</chartposition>
+    <playcount>15</playcount>
+    <url>http://www.last.fm/music/DJ+Vadim</url>
+</artist>
+<artist>
+    <name>Squirrel Nut Zippers</name>
+    <mbid></mbid>
+    <chartposition>13</chartposition>
+    <playcount>13</playcount>
+    <url>http://www.last.fm/music/Squirrel+Nut+Zippers</url>
+</artist>
+<artist>
+    <name>Bonobo</name>
+    <mbid></mbid>
+    <chartposition>13</chartposition>
+    <playcount>13</playcount>
+    <url>http://www.last.fm/music/Bonobo</url>
+</artist>
+<artist>
+    <name>Daft Punk</name>
+    <mbid></mbid>
+    <chartposition>15</chartposition>
+    <playcount>11</playcount>
+    <url>http://www.last.fm/music/Daft+Punk</url>
+</artist>
+<artist>
+    <name>Lauryn Hill</name>
+    <mbid></mbid>
+    <chartposition>16</chartposition>
+    <playcount>10</playcount>
+    <url>http://www.last.fm/music/Lauryn+Hill</url>
+</artist>
+<artist>
+    <name>DJ Krush</name>
+    <mbid></mbid>
+    <chartposition>17</chartposition>
+    <playcount>9</playcount>
+    <url>http://www.last.fm/music/DJ+Krush</url>
+</artist>
+<artist>
+    <name>Mylo</name>
+    <mbid></mbid>
+    <chartposition>18</chartposition>
+    <playcount>8</playcount>
+    <url>http://www.last.fm/music/Mylo</url>
+</artist>
+<artist>
+    <name>Party Ben</name>
+    <mbid>bb4789be-e26b-43c4-b098-d65b06538bd3</mbid>
+    <chartposition>18</chartposition>
+    <playcount>8</playcount>
+    <url>http://www.last.fm/music/Party+Ben</url>
+</artist>
+<artist>
+    <name>Pnau</name>
+    <mbid></mbid>
+    <chartposition>20</chartposition>
+    <playcount>7</playcount>
+    <url>http://www.last.fm/music/Pnau</url>
+</artist>
+<artist>
+    <name>Solid Steel</name>
+    <mbid></mbid>
+    <chartposition>21</chartposition>
+    <playcount>6</playcount>
+    <url>http://www.last.fm/music/Solid+Steel</url>
+</artist>
+<artist>
+    <name>The Smiths</name>
+    <mbid></mbid>
+    <chartposition>22</chartposition>
+    <playcount>4</playcount>
+    <url>http://www.last.fm/music/The+Smiths</url>
+</artist>
+<artist>
+    <name>De La Soul</name>
+    <mbid></mbid>
+    <chartposition>22</chartposition>
+    <playcount>4</playcount>
+    <url>http://www.last.fm/music/De+La+Soul</url>
+</artist>
+<artist>
+    <name>The Herbaliser</name>
+    <mbid></mbid>
+    <chartposition>22</chartposition>
+    <playcount>4</playcount>
+    <url>http://www.last.fm/music/The+Herbaliser</url>
+</artist>
+<artist>
+    <name>DJ John</name>
+    <mbid></mbid>
+    <chartposition>22</chartposition>
+    <playcount>4</playcount>
+    <url>http://www.last.fm/music/DJ+John</url>
+</artist>
+<artist>
+    <name>Nat Adderley</name>
+    <mbid></mbid>
+    <chartposition>26</chartposition>
+    <playcount>3</playcount>
+    <url>http://www.last.fm/music/Nat+Adderley</url>
+</artist>
+<artist>
+    <name>Flevans</name>
+    <mbid></mbid>
+    <chartposition>26</chartposition>
+    <playcount>3</playcount>
+    <url>http://www.last.fm/music/Flevans</url>
+</artist>
+<artist>
+    <name>Karminsky Experience Inc.</name>
+    <mbid></mbid>
+    <chartposition>26</chartposition>
+    <playcount>3</playcount>
+    <url>http://www.last.fm/music/Karminsky+Experience+Inc.</url>
+</artist>
+<artist>
+    <name>King Seven</name>
+    <mbid></mbid>
+    <chartposition>26</chartposition>
+    <playcount>3</playcount>
+    <url>http://www.last.fm/music/King+Seven</url>
+</artist>
+<artist>
+    <name>DJ Riko</name>
+    <mbid></mbid>
+    <chartposition>26</chartposition>
+    <playcount>3</playcount>
+    <url>http://www.last.fm/music/DJ+Riko</url>
+</artist>
+<artist>
+    <name>Loo &amp; Placido</name>
+    <mbid></mbid>
+    <chartposition>26</chartposition>
+    <playcount>3</playcount>
+    <url>http://www.last.fm/music/Loo%2B%2526%2BPlacido</url>
+</artist>
+<artist>
+    <name>Belgradeyard Sound System</name>
+    <mbid>f64e1052-57d7-4a46-acda-252e4d405650</mbid>
+    <chartposition>26</chartposition>
+    <playcount>3</playcount>
+    <url>http://www.last.fm/music/Belgradeyard+Sound+System</url>
+</artist>
+<artist>
+    <name>Black Grass</name>
+    <mbid></mbid>
+    <chartposition>26</chartposition>
+    <playcount>3</playcount>
+    <url>http://www.last.fm/music/Black+Grass</url>
+</artist>
+<artist>
+    <name>Paul Murphy</name>
+    <mbid></mbid>
+    <chartposition>26</chartposition>
+    <playcount>3</playcount>
+    <url>http://www.last.fm/music/Paul+Murphy</url>
+</artist>
+<artist>
+    <name>Diesler</name>
+    <mbid></mbid>
+    <chartposition>26</chartposition>
+    <playcount>3</playcount>
+    <url>http://www.last.fm/music/Diesler</url>
+</artist>
+<artist>
+    <name>Jazz Juice</name>
+    <mbid></mbid>
+    <chartposition>26</chartposition>
+    <playcount>3</playcount>
+    <url>http://www.last.fm/music/Jazz+Juice</url>
+</artist>
+<artist>
+    <name>Earworm</name>
+    <mbid></mbid>
+    <chartposition>26</chartposition>
+    <playcount>3</playcount>
+    <url>http://www.last.fm/music/Earworm</url>
+</artist>
+<artist>
+    <name>Hugo Maldoro</name>
+    <mbid></mbid>
+    <chartposition>26</chartposition>
+    <playcount>3</playcount>
+    <url>http://www.last.fm/music/Hugo+Maldoro</url>
+</artist>
+<artist>
+    <name>King Of Pants</name>
+    <mbid></mbid>
+    <chartposition>26</chartposition>
+    <playcount>3</playcount>
+    <url>http://www.last.fm/music/King+Of+Pants</url>
+</artist>
+<artist>
+    <name>Solid Steel Players</name>
+    <mbid>4f24fd96-a680-4f89-b605-b25e6e8e7b49</mbid>
+    <chartposition>26</chartposition>
+    <playcount>3</playcount>
+    <url>http://www.last.fm/music/Solid+Steel+Players</url>
+</artist>
+<artist>
+    <name>Amon Tobin</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Amon+Tobin</url>
+</artist>
+<artist>
+    <name>Bob Dylan</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Bob+Dylan</url>
+</artist>
+<artist>
+    <name>Jurassic 5</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Jurassic+5</url>
+</artist>
+<artist>
+    <name>Radiohead</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Radiohead</url>
+</artist>
+<artist>
+    <name>Electric Light Orchestra</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Electric+Light+Orchestra</url>
+</artist>
+<artist>
+    <name>Jimi Hendrix</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Jimi+Hendrix</url>
+</artist>
+<artist>
+    <name>Madonna</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Madonna</url>
+</artist>
+<artist>
+    <name>Fatboy Slim</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Fatboy+Slim</url>
+</artist>
+<artist>
+    <name>Fleetwood Mac</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Fleetwood+Mac</url>
+</artist>
+<artist>
+    <name>Michael Jackson</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Michael+Jackson</url>
+</artist>
+<artist>
+    <name>Cyndi Lauper</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Cyndi+Lauper</url>
+</artist>
+<artist>
+    <name>Men at Work</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Men+at+Work</url>
+</artist>
+<artist>
+    <name>Paperclip People</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Paperclip+People</url>
+</artist>
+<artist>
+    <name>Hall &amp; Oates</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Hall%2B%2526%2BOates</url>
+</artist>
+<artist>
+    <name>Fela Kuti</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Fela+Kuti</url>
+</artist>
+<artist>
+    <name>Deee-Lite</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Deee-Lite</url>
+</artist>
+<artist>
+    <name>Ol' Dirty Bastard</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Ol%27+Dirty+Bastard</url>
+</artist>
+<artist>
+    <name>Super Numeri</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Super+Numeri</url>
+</artist>
+<artist>
+    <name>Zhane</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Zhane</url>
+</artist>
+<artist>
+    <name>Fern Kinney</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Fern+Kinney</url>
+</artist>
+<artist>
+    <name>Thomas Bangalter</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Thomas+Bangalter</url>
+</artist>
+<artist>
+    <name>Detroit Grand Pubahs</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Detroit+Grand+Pubahs</url>
+</artist>
+<artist>
+    <name>West Street Mob</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/West+Street+Mob</url>
+</artist>
+<artist>
+    <name>Instant Funk</name>
+    <mbid>1658b247-7a13-439f-911e-5791ba9df3d6</mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Instant+Funk</url>
+</artist>
+<artist>
+    <name>Tripp</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Tripp</url>
+</artist>
+<artist>
+    <name>Blowfly</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Blowfly</url>
+</artist>
+<artist>
+    <name>Gonzalez</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Gonzalez</url>
+</artist>
+<artist>
+    <name>Roy Ayres</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Roy+Ayres</url>
+</artist>
+<artist>
+    <name>Kid Creole &amp; the Coconuts</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Kid%2BCreole%2B%2526%2Bthe%2BCoconuts</url>
+</artist>
+<artist>
+    <name>The Perishers</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/The+Perishers</url>
+</artist>
+<artist>
+    <name>Savath &amp; Savalas</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Savath%2B%2526%2BSavalas</url>
+</artist>
+<artist>
+    <name>Xavier Rudd</name>
+    <mbid>6689a626-4de7-41d5-9ec3-5a289472a9e2</mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Xavier+Rudd</url>
+</artist>
+<artist>
+    <name>Troubleman</name>
+    <mbid></mbid>
+    <chartposition>41</chartposition>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Troubleman</url>
+</artist>
+<artist>
+    <name>Prefuse 73</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Prefuse+73</url>
+</artist>
+<artist>
+    <name>Coldcut</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Coldcut</url>
+</artist>
+<artist>
+    <name>DJ Food</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/DJ+Food</url>
+</artist>
+<artist>
+    <name>Erykah Badu</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Erykah+Badu</url>
+</artist>
+<artist>
+    <name>Stone Alliance</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Stone+Alliance</url>
+</artist>
+<artist>
+    <name>John Vanderslice</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/John+Vanderslice</url>
+</artist>
+<artist>
+    <name>Pharoah Sanders</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Pharoah+Sanders</url>
+</artist>
+<artist>
+    <name>Soul II Soul</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Soul+II+Soul</url>
+</artist>
+<artist>
+    <name>Ultramagnetic MC's</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Ultramagnetic+MC%27s</url>
+</artist>
+<artist>
+    <name>Triple J</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Triple+J</url>
+</artist>
+<artist>
+    <name>Lords of the Underground</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Lords+of+the+Underground</url>
+</artist>
+<artist>
+    <name>Arsonists</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Arsonists</url>
+</artist>
+<artist>
+    <name>Tipper</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Tipper</url>
+</artist>
+<artist>
+    <name>Big Youth</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Big+Youth</url>
+</artist>
+<artist>
+    <name>Just-Ice</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Just-Ice</url>
+</artist>
+<artist>
+    <name>Spaghetti Head</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Spaghetti+Head</url>
+</artist>
+<artist>
+    <name>Brat</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Brat</url>
+</artist>
+<artist>
+    <name>Mad Kap</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Mad+Kap</url>
+</artist>
+<artist>
+    <name>chocolate milk</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/chocolate+milk</url>
+</artist>
+<artist>
+    <name>Showbiz &amp; A.G.</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Showbiz%2B%2526%2BA.G.</url>
+</artist>
+<artist>
+    <name>Dred Scott</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Dred+Scott</url>
+</artist>
+<artist>
+    <name>Border Crossing</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Border+Crossing</url>
+</artist>
+<artist>
+    <name>connie price &amp; the keystones</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/connie%2Bprice%2B%2526%2Bthe%2Bkeystones</url>
+</artist>
+<artist>
+    <name>Sarah Winton</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Sarah+Winton</url>
+</artist>
+<artist>
+    <name>Thriftshop XL</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Thriftshop+XL</url>
+</artist>
+<artist>
+    <name>The Peddlers</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/The+Peddlers</url>
+</artist>
+<artist>
+    <name>Microdisiacs</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Microdisiacs</url>
+</artist>
+<artist>
+    <name>Jay-R</name>
+    <mbid>40533992-32d0-41c8-9539-1d609d7af263</mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Jay-R</url>
+</artist>
+<artist>
+    <name>Demon Boyz</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Demon+Boyz</url>
+</artist>
+<artist>
+    <name>Little Miss Trinitron</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Little+Miss+Trinitron</url>
+</artist>
+<artist>
+    <name>eighth from the egg</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/eighth+from+the+egg</url>
+</artist>
+<artist>
+    <name>mungos hifi</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/mungos+hifi</url>
+</artist>
+<artist>
+    <name>Luis Enriquez</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Luis+Enriquez</url>
+</artist>
+<artist>
+    <name>UTD</name>
+    <mbid>cbb1fd45-e63a-41f1-85e8-ce9e79844bfe</mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/UTD</url>
+</artist>
+<artist>
+    <name>Papa Austin With The Great Peso</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Papa+Austin+With+The+Great+Peso</url>
+</artist>
+<artist>
+    <name>2day &amp; 2moro / Cappo</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/2day%2B%2526%2B2moro%2B%252F%2BCappo</url>
+</artist>
+<artist>
+    <name>Mark Rae Vs Deadbeats</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Mark+Rae+Vs+Deadbeats</url>
+</artist>
+<artist>
+    <name>SBS Radio</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/SBS+Radio</url>
+</artist>
+<artist>
+    <name>ruff muff</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/ruff+muff</url>
+</artist>
+<artist>
+    <name>DJ Krush (feat. Black Thought)</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/DJ+Krush+%28feat.+Black+Thought%29</url>
+</artist>
+<artist>
+    <name>DJ Krush (feat. Zap Mama)</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/DJ+Krush+%28feat.+Zap+Mama%29</url>
+</artist>
+<artist>
+    <name>DJ Krush (feat. Tunde Ayanyemi)</name>
+    <mbid></mbid>
+    <chartposition>74</chartposition>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/DJ+Krush+%28feat.+Tunde+Ayanyemi%29</url>
+</artist>
+</weeklyartistchart>
